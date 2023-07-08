@@ -1,0 +1,164 @@
+
+1. `whois`: Retrieves registration information for a domain or IP address.
+2. `nbtscan`: Scans for NetBIOS information on a target IP address or range.
+3. `nbtstat`: Displays NetBIOS over TCP/IP (NetBT) protocol statistics and current connections.
+4. `fping`: Sends ICMP echo requests to a range of IP addresses to check their availability.
+5. `tcptraceroute`: Traces the route packets take to a destination using TCP.
+6. `traceroute`: Determines the path packets take to a destination using ICMP.
+7. `xprobe2`: OS fingerprinting tool that detects the underlying operating system of a target.
+8. `sslyze`: Tests SSL/TLS encryption configurations of a target server.
+9. `tcpdump`: Captures and analyzes network traffic.
+10. `tshark`: Command-line tool for analyzing network traffic captured by Wireshark.
+11. `wireshark`: Graphical network protocol analyzer for capturing and analyzing network traffic.
+12. `subbrute`: Subdomain brute-forcing tool to discover valid subdomains.
+13. `dnsenum`: Enumerates DNS information for a target domain.
+14. `dnsrecon`: DNS enumeration tool for discovering DNS records.
+15. `dnstracer`: Traces the path from a DNS resolver to a target domain.
+16. `enum4linux`: Enumerates information from Windows and Samba systems.
+17. `hping3`: Network tool for sending custom ICMP, UDP, and TCP packets.
+18. `dotdotpwn`: Exploitation tool for path traversal vulnerabilities.
+19. `golismero`: Web application security scanner.
+20. `netmask`: Tool for manipulating IP address netmasks.
+21. `knock`: Port-knocking client to trigger firewall rules.
+22. `lbd`: Load balancing detector to check if a server is balancing connections.
+23. `angryFuzzer`: Fuzzing tool for finding vulnerabilities in web applications.
+24. `miranda`: Passive network traffic capture and analysis tool.
+25. `ncat`: Network tool that reads and writes data across networks.
+26. `wafw00f`: Identifies web application firewalls (WAFs) in use.
+27. `inforfinder`: Information gathering tool for email addresses and subdomains.
+28. `masscan`: Fast TCP port scanner.
+29. `faraday`: Collaborative penetration testing platform.
+30. `tlssled`: Analyzes the SSL/TLS handshake process of a server.
+31. `sslsplit`: Transparent SSL/TLS interception proxy.
+32. `dmitry`: Deepmagic Information Gathering Tool.
+33. `urlcrazy`: Domain name typo enumeration tool.
+34. `admin-panel-finder`: Tool to find administrative panels on websites.
+35. `dnsmap`: DNS brute-forcing tool to discover subdomains.
+36. `dnmap_client`: Client for the distributed network mapper (dnmap) server.
+37. `dnswalk`: DNS debugger and zone file analysis tool.
+38. `fierce`: DNS reconnaissance tool for discovering DNS servers and zone transfers.
+39. `fragrouter`: IP packet fragmentation and forwarding tool.
+40. `ftest`: Firewall tester tool to check firewall rules.
+41. `arping`: Sends ARP requests to a target IP address.
+42. `cdpsnarf`: Extracts CDP information from network interfaces.
+43. `unicornscan`: Asynchronous network reconnaissance and packet generation.
+44. `nmap`: Comprehensive network scanning tool.
+45. `theHarvester`: Information gathering tool for email addresses, hosts, and subdomains.
+46. `twofi`: Twitter user information gathering tool.
+47. `maltego`: Open-source intelligence (OSINT) and graphical link analysis tool.
+48. `0trace`: Traceroute-like tool for analyzing TCP/IP packet paths.
+49. `intrace`: ICMP and TCP traceroute tool.
+50. `irpas-cdp`: CDP (Cisco Discovery Protocol) information gathering tool.
+51. `netdiscover`: Active/passive network address discovery tool.
+52. `smbmap`: SMB (Server Message Block) enumeration and scanning tool.
+53. `snmp-check`: SNMP enumeration and scanning tool.
+54. `swaks`: Swiss Army Knife for SMTP.
+55. `gobuster`: Directory and DNS brute-forcing tool.
+56. `smtp-user-enum`: Enumerates user accounts via SMTP.
+57. `braa`: Broadcast message relay archiver tool for SNMP traps.
+58. `onesixtyone`: SNMP enumeration tool.
+59. `ssldump`: SSL/TLS decryption and analysis tool.
+60. `sslh`: SSL/SSH multiplexer.
+61. `sslscan`: SSL/TLS vulnerability scanner.
+62. `ike-scan`: IKE (Internet Key Exchange) protocol scanner.
+63. `legion`: Security toolset for auditing and penetration testing.
+64. `recon-ng`: Web reconnaissance framework.
+65. `p0f`: Passive OS fingerprinting tool.
+66. `acccheck`: SMB login brute-forcing tool.
+67. `THC-IPV6`: IPv6 attack toolkit.
+68. `casefile`: OSINT graph visualization tool.
+69. `creepy`: Geolocation OSINT tool.
+70. `jigsaw`: Email address enumeration tool.
+71. `metagoofil`: Metadata gathering tool for documents.
+72. `sslcaudit`: SSL/TLS certificate auditor.
+73. `stunnel4`: Universal SSL/TLS tunneling tool.
+74. `tcpflow`: TCP/IP packet capture and analysis tool.
+75. `ace-voip`: VoIP enumeration and attack tool.
+76. `amap`: Application protocol detection and service identification.
+77. `APT2`: Automated penetration testing framework.
+78. `bing-ip2hosts`: Bing search engine IP to hostname resolution tool.
+79. `automater`: OSINT tool for analyzing domains and IP addresses.
+80. `cisco-torch`: Cisco router vulnerability scanner.
+81. `enumIAX`: IAX (Inter-Asterisk eXchange) enumeration tool.
+82. `EyeWitness`: Web application screenshot tool.
+83. `goofile`: File search and download tool from Google.
+84. `ident-user-enum`: Ident protocol user enumeration tool.
+85. `inSpy`: LinkedIn enumeration tool.
+86. `iSMTP`: Simple SMTP testing tool.
+87. `Nikto`: Web server vulnerability scanner.
+88. `ntop`: Network traffic monitoring and analysis tool.
+89. `Parsero`: Robots.txt file parser and analyzer.
+90. `OSRFramework`: OSINT framework for information gathering.
+91. `sublist3r`: Subdomain enumeration tool.
+92. `ffuf`: Fast web fuzzer.
+93. `Amass`: Subdomain enumeration and scraping tool.
+94. `AQUATONE`: Subdomain discovery and reconnaissance tool.
+95. `netscanner`: Simple TCP/UDP scanner.
+96. `webshag`: Multi-threaded web server scanner.
+97. `PimEyes`: Reverse image
+
+search engine to find similar images online.
+98. `TinEye`: Reverse image search engine to find similar images online.
+99. `OSINT Framework`: Comprehensive collection of OSINT tools and resources.
+100. `Depix`: Tool to recover text from pixelized screenshots.
+101. `Osintgram`: Instagram OSINT tool for gathering information from public profiles.
+102. `Sherlock`: Username enumeration tool for various online platforms.
+103. `PhoneInfoga`: Information gathering tool for phone numbers.
+104. `GHunt`: Google account information gathering tool.
+105. `0trace`: Network tracing tool that uses TCP packets with varying TTL values.
+106. `irpas-ass`: IP address scanner and service enumerator.
+107. `irpas-cdp`: CDP (Cisco Discovery Protocol) information gathering tool.
+108. `netdiscover`: Active/passive network address discovery tool.
+109. `smbmap`: SMB (Server Message Block) enumeration and scanning tool.
+110. `snmp-check`: SNMP (Simple Network Management Protocol) enumeration and scanning tool.
+111. `swaks`: Swiss Army Knife for SMTP (Simple Mail Transfer Protocol) testing.
+112. `gobsuter`: Directory and DNS brute-forcing tool.
+113. `smtp-user-enum`: SMTP user enumeration tool.
+114. `braa`: Broadcast message relay archiver tool for SNMP traps.
+115. `onesixtyone`: SNMP enumeration tool.
+116. `ssldump`: SSL/TLS decryption and analysis tool.
+117. `sslh`: SSL/SSH multiplexer.
+118. `sslscan`: SSL/TLS vulnerability scanner.
+119. `ike-scan`: IKE (Internet Key Exchange) protocol scanner.
+120. `legion`: Security toolset for auditing and penetration testing.
+121. `recon-ng`: Web reconnaissance framework.
+122. `p0f`: Passive OS fingerprinting tool.
+123. `acccheck`: SMB login brute-forcing tool.
+124. `THC-IPV6`: IPv6 attack toolkit.
+125. `casefile`: OSINT graph visualization tool.
+126. `creepy`: Geolocation OSINT tool.
+127. `jigsaw`: Email address enumeration tool.
+128. `metagoofil`: Metadata gathering tool for documents.
+129. `sslcaudit`: SSL/TLS certificate auditor.
+130. `stunnel4`: Universal SSL/TLS tunneling tool.
+131. `tcpflow`: TCP/IP packet capture and analysis tool.
+132. `ace-voip`: VoIP enumeration and attack tool.
+133. `amap`: Application protocol detection and service identification.
+134. `APT2`: Automated penetration testing framework.
+135. `bing-ip2hosts`: Bing search engine IP to hostname resolution tool.
+136. `automater`: OSINT tool for analyzing domains and IP addresses.
+137. `cisco-torch`: Cisco router vulnerability scanner.
+138. `enumIAX`: IAX (Inter-Asterisk eXchange) enumeration tool.
+139. `EyeWitness`: Web application screenshot tool.
+140. `goofile`: File search and download tool from Google.
+141. `ident-user-enum`: Ident protocol user enumeration tool.
+142. `inSpy`: LinkedIn enumeration tool.
+143. `iSMTP`: Simple SMTP testing tool.
+144. `Nikto`: Web server vulnerability scanner.
+145. `ntop`: Network traffic monitoring and analysis tool.
+146. `Parsero`: Robots.txt file parser and analyzer.
+147. `OSRFramework`: OSINT framework for information gathering.
+148. `sublist3r`: Subdomain enumeration tool.
+149. `ffuf`: Fast web fuzzer.
+150. `Amass`: Subdomain enumeration and scraping tool.
+151. `AQUATONE`: Subdomain discovery and reconnaissance tool.
+152. `netscanner`: Simple TCP/UDP scanner.
+153. `webshag`: Multi-threaded web server scanner.
+154. `PimEyes`: Reverse image search engine to find similar images online.
+155. `TinEye`: Reverse image search engine to find similar images online.
+156. `OSINT Framework`: Comprehensive collection of OSINT tools and resources.
+157. `Depix`: Tool to recover text from pixelized screenshots.
+158. `Osintgram`: Instagram OSINT tool for gathering information from public profiles.
+159. `Sherlock`: Username enumeration tool for various online platforms.
+160. `PhoneInfoga`: Information gathering tool for phone numbers.
+161. `GHunt`: Google account information gathering tool.
